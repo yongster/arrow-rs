@@ -1,0 +1,21 @@
+.github/workflows/audit.yml
+  s_c588964980d107::t_2e169c55e9fd75 45-47
+.github/workflows/rust.yml
+  s_c588964980d107::t_2e169c55e9fd75 122-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "987f15ee53cc4b4955da01bc0718003e15df18af",
+  "prompts": {},
+  "sessions": {
+    "s_c588964980d107": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdcb8-8652-7982-81d5-dcadc288eac7",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
