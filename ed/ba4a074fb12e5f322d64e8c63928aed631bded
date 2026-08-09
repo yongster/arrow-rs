@@ -1,0 +1,19 @@
+parquet-variant/src/lib.rs
+  s_dcd0002955e566::t_faeebb3f699fb3 34-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "edba4a074fb12e5f322d64e8c63928aed631bded",
+  "prompts": {},
+  "sessions": {
+    "s_dcd0002955e566": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fe70b-58af-7dd0-b0a8-0674f757ec83",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
