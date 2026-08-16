@@ -1,0 +1,14 @@
+arrow-cast/src/cast/mod.rs
+  h_1be55cb25e4fb7 351-363,376-377,388-394,398-399,403-405,412-413,417-419,10623-10715
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0eb929ec7d75f45fc50393646abbcaec44174ef1",
+  "prompts": {},
+  "humans": {
+    "h_1be55cb25e4fb7": {
+      "author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
