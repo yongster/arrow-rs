@@ -1,0 +1,26 @@
+arrow-cast/src/cast/mod.rs
+  s_0333d4bde20acf::t_531b7ff04c4562 365-366,368-371,373,375-377,393,406-407,411-412
+  s_0333d4bde20acf::t_c02a3dbb0f0072 10696-10716
+  s_0333d4bde20acf::t_b30b7e7922c85d 354-356,359,362,367,372,374,378,418-426
+  s_0333d4bde20acf::t_abfa35b24a1c14 363-364
+  s_0333d4bde20acf::t_3edb244bc507e1 10695
+arrow-cast/Cargo.toml
+  s_0333d4bde20acf::t_717503338ad743 81-83
+  s_0333d4bde20acf::t_dec0c2a047d263 80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ea95ef817bc96b48252a4e4ab3c6cd6962e1da62",
+  "prompts": {},
+  "sessions": {
+    "s_0333d4bde20acf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0051f-8a92-7821-9a42-a2120aa4166b",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
