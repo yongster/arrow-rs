@@ -1,0 +1,23 @@
+arrow-cast/src/cast/mod.rs
+  s_0333d4bde20acf::t_be499a0ca4833a 388-398,402-404,409-411
+arrow/benches/cast_kernels.rs
+  s_0333d4bde20acf::t_2ef2e4a6f2cc4a 241
+  s_0333d4bde20acf::t_66a484e15d230a 242
+  s_0333d4bde20acf::t_be499a0ca4833a 307-312
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "34cd0ea7f3b1bd72814ff714a9870f0ba88aad95",
+  "prompts": {},
+  "sessions": {
+    "s_0333d4bde20acf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0051f-8a92-7821-9a42-a2120aa4166b",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
