@@ -1,0 +1,19 @@
+arrow-cast/benches/integer_to_decimal.rs
+  s_0333d4bde20acf::t_717503338ad743 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "fb7ea0cccf4e79ad96bee9da2c5e6daa14654b55",
+  "prompts": {},
+  "sessions": {
+    "s_0333d4bde20acf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0051f-8a92-7821-9a42-a2120aa4166b",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
