@@ -1,0 +1,21 @@
+arrow-cast/src/cast/mod.rs
+  s_ccdd5df7b359b4::t_a3bb5a2e45e894 356-357,412-413,10678-10680,10735-10737,10756-10758
+arrow/benches/cast_kernels.rs
+  s_ccdd5df7b359b4::t_1e740c83e3bcf2 306,309
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8c95572d0e61df9a623ee223e5120e7f777e2136",
+  "prompts": {},
+  "sessions": {
+    "s_ccdd5df7b359b4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f82e9-efb0-7201-a07f-6e9db1ae111c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
