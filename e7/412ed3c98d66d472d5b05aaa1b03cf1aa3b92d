@@ -1,0 +1,23 @@
+arrow-select/src/take.rs
+  s_c588964980d107::t_b07bbc662125a3 1355
+  s_c588964980d107::t_ccd2721a7881a0 342-347,3259,3507-3560
+  s_c588964980d107::t_8e16d550e4a942 424,428,1356-1361,3240-3258,3613
+  s_c588964980d107::t_09259ecf6aca8c 3260
+  s_c588964980d107::t_c2962cd5b58849 3561
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e7412ed3c98d66d472d5b05aaa1b03cf1aa3b92d",
+  "prompts": {},
+  "sessions": {
+    "s_c588964980d107": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdcb8-8652-7982-81d5-dcadc288eac7",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
