@@ -1,0 +1,26 @@
+arrow-select/src/take.rs
+  s_c588964980d107::t_b5f0dbd78fbdb3 418,422
+  s_c588964980d107::t_83d70103abb920 3524
+arrow-select/src/nullif.rs
+  s_c588964980d107::t_c04cfcf99f1e7d 242,245,255,258,273,276
+  s_c588964980d107::t_e5ac612dcb64d8 146-148,151,154,203-206,208-214,236,241,256-257,259-267,272,287
+  s_c588964980d107::t_b5f0dbd78fbdb3 20,45,50,52-66,69-70,127-138,144,196-202,207,237-240,243-244,246-254,268-271,274-275,277-286,288
+  s_c588964980d107::t_3369eaef217a60 149,215-235
+  s_c588964980d107::t_57c984115aafac 289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "845b9143d186fe60ecc27de76269daf95b6cd568",
+  "prompts": {},
+  "sessions": {
+    "s_c588964980d107": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdcb8-8652-7982-81d5-dcadc288eac7",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
