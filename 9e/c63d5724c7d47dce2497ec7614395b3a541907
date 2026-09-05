@@ -1,0 +1,14 @@
+arrow-select/src/nullif.rs
+  h_1be55cb25e4fb7 56-62,65,70,72,87,95-96,108-113,130,132,220-244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "9ec63d5724c7d47dce2497ec7614395b3a541907",
+  "prompts": {},
+  "humans": {
+    "h_1be55cb25e4fb7": {
+      "author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
