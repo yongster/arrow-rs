@@ -1,0 +1,14 @@
+arrow-select/src/take.rs
+  h_1be55cb25e4fb7 344-353,444-495,3585,3605-3647,3651,3655-3684
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "482722605252d0ac3b358b2866c5fe14f8db981e",
+  "prompts": {},
+  "humans": {
+    "h_1be55cb25e4fb7": {
+      "author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
