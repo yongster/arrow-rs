@@ -1,0 +1,14 @@
+arrow/benches/comparison_kernels.rs
+  h_1be55cb25e4fb7 462-497
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "23500aaae70c2903e620e162b08a0f6dcaadea52",
+  "prompts": {},
+  "humans": {
+    "h_1be55cb25e4fb7": {
+      "author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
