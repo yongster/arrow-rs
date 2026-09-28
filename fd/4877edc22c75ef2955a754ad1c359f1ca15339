@@ -1,0 +1,14 @@
+arrow-schema/src/extension/canonical/fixed_shape_tensor.rs
+  h_1be55cb25e4fb7 132-155,382-391,475,507-527
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fd4877edc22c75ef2955a754ad1c359f1ca15339",
+  "prompts": {},
+  "humans": {
+    "h_1be55cb25e4fb7": {
+      "author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
