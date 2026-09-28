@@ -1,0 +1,20 @@
+arrow-cast/tests/cast/float16.rs
+  s_0466cf5dceae98::t_eece82cdbafff0 1-156
+  s_0466cf5dceae98::t_b56cbcdf8c3150 157-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4c9b42062e77b6ce0842cf117360e8b78bbf30a5",
+  "prompts": {},
+  "sessions": {
+    "s_0466cf5dceae98": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a0e726-9e76-7183-a0d4-50f439c766c2",
+        "model": "unknown"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
