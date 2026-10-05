@@ -1,0 +1,14 @@
+arrow/benches/cast_kernels.rs
+  h_1be55cb25e4fb7 328-334,336,339,342,345
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ae9ee9b973052227954c53cd5806b65563e47737",
+  "prompts": {},
+  "humans": {
+    "h_1be55cb25e4fb7": {
+      "author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
